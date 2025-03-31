@@ -1,1 +1,3 @@
-# application developer b
+
+application developer b
+application adding dev A story 
